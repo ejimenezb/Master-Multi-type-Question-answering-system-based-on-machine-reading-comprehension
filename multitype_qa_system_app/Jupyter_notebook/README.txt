@@ -14,3 +14,6 @@ https://drive.google.com/file/d/1AQsn08mIld5LZN3uYQ0YBlE3aHcrEj9y/view?usp=drive
 
 Download and unzip: json_validatedata_files
 https://drive.google.com/file/d/19_BYjbNab0JKC2piezVgyd_5AyzInXJW/view?usp=drive_link
+
+Download and unzip: biomrc
+https://drive.google.com/file/d/1F4yxY1mj_KdmgY2_y7TGkvarTAntx3iy/view?usp=drive_link
